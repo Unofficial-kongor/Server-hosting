@@ -12,7 +12,7 @@ The only way to get real time support is from Project KONGOR's discord channel [
 
 [Downloads](basics/downloads.md)
 
-Initial setup
+[Initial setup](basics/initial-setup.md)
 
 Port forwarding
 
