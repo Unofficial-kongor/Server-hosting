@@ -16,10 +16,9 @@ The only way to get real time support is from Project KONGOR's discord channel [
 
 [Port forwarding](basics/port-forwarding.md)
 
-Testing server
+[Testing server](basics/testing.md)
 
-Deploy to public
-
+[Deploy to public](basics/deploy-to-public.md)
 
 
 ### Digging deeper
