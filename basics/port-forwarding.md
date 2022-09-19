@@ -14,10 +14,10 @@ The server sends and receives packages via the UDP protocol on 2 ranges ("game" 
 
 *PS: The port range may be set to the amount of server instances you wish to run*
 
-
 ### Router guides
 
 #### PfSense
+
 1. Goto `Firewall -> Alias -> Ports`
 2. add
 3. Enter botrh ranges in format `xxxx:yyyy` and give it a name like `hon_ports`
