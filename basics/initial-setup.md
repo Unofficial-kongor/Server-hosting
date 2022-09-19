@@ -1,6 +1,6 @@
 # Initial setup
 
-These steps assumes you have created `C:\H O N` _(Including spaces)_ you may however use whatever directory you like, but its required to have at least one space because of [this bug](#no-link-yet)
+These steps assumes you have created the directory `C:\H O N` _(Including spaces)_ you may however use whatever directory you like, but its required to have at least one space because of [this bug](#no-link-yet)
 
 1. Control panel -> Battery -> Power potions. Set plan to "High performance"
 2. Extract the clean HON into `C:\H O N` or something. Its important to have spaces in the path name, otherwise you will get an error later.
