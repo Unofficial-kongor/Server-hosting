@@ -6,7 +6,7 @@ The only way to get real time support is from Project KONGOR's discord channel [
 
 ### The basics
 
-[Do it at your own risk](basics/risks.md)
+[Do it at your own risk](basics/risks)
 
 System and infrastructure requirements
 
