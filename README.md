@@ -14,7 +14,7 @@ The only way to get real time support is from Project KONGOR's discord channel [
 
 [Initial setup](basics/initial-setup.md)
 
-Port forwarding
+[Port forwarding](basics/port-forwarding.md)
 
 Testing server
 
