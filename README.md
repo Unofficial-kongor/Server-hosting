@@ -8,9 +8,9 @@ The only way to get real time support is from Project KONGOR's discord channel [
 
 [Do it at your own risk](basics/risks.md)
 
-[System and infrastructure requirements](basics/system-and-infra)
+[System and infrastructure requirements](basics/system-and-infra.md)
 
-Downloads
+[Downloads](basics/downloads.md)
 
 Initial setup
 
