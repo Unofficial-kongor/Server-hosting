@@ -6,7 +6,7 @@ The only way to get real time support is from Project KONGOR's discord channel [
 
 ### How to get started 
 
-Please read each step carefully.
+_Please read each step carefully_
 
 [Do it at your own risk](basics/risks.md)
 
@@ -22,14 +22,14 @@ Please read each step carefully.
 
 [Deploy to public](basics/deploy-to-public.md)
 
+[Maintenance](basics/maintenance.md)
 
 ### Digging deeper
 
-Keeping your server up to date
 
 Common error messages
 
-Long server frames
+[Long server frames](deeper/long-server-frames.md)
 
 Debugging proxy logs
 
