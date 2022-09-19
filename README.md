@@ -8,24 +8,23 @@ The only way to get real time support is from Project KONGOR's discord channel [
 
 _Please read each step carefully_
 
-[Do it at your own risk](basics/risks.md)
+1. [Do it at your own risk](basics/risks.md)
 
-[System and infrastructure requirements](basics/system-and-infra.md)
+2. [System and infrastructure requirements](basics/system-and-infra.md)
 
-[Downloads](basics/downloads.md)
+3. [Downloads](basics/downloads.md)
 
-[Initial setup](basics/initial-setup.md)
+4. [Initial setup](basics/initial-setup.md)
 
-[Port forwarding](basics/port-forwarding.md)
+5. [Port forwarding](basics/port-forwarding.md)
 
-[Testing server](basics/testing.md)
+6. [Testing server](basics/testing.md)
 
-[Deploy to public](basics/deploy-to-public.md)
+7. [Deploy to public](basics/deploy-to-public.md)
 
-[Maintenance](basics/maintenance.md)
+8. [Maintenance](basics/maintenance.md)
 
 ### Digging deeper
-
 
 Common error messages
 
