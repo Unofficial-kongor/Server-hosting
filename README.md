@@ -4,7 +4,9 @@
 
 The only way to get real time support is from Project KONGOR's discord channel [#hosting](https://discord.com/channels/991034716360687637/1018466634408673340)
 
-### The basics
+### How to get started 
+
+Please read each step carefully.
 
 [Do it at your own risk](basics/risks.md)
 
