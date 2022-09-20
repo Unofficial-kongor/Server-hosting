@@ -11,7 +11,7 @@ After the above step is done, now its time for the game server setup. Extract th
    1. `hon_x64.exe` `k2_x64.dll` `proxy.exe` `proxymanager.exe` into `C:\Heroes of Newerth`
    2. `cgame_x64.dll` `game_shared_x64.dll` `game_x64.dll` into `C:\Heroes of Newerth\game`
 
-2. Extract  *compel*  and all its files into your hon folder.  Start by editing `compel.json` with your preferred text editor and fill out the `Values` for each setting. 
+2. Extract  *compel*  into your hon folder.  Start by editing `compel.json` with your preferred text editor and fill out the `Values` for each setting. 
    
    1. The most important values to change is
    
