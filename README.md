@@ -26,11 +26,11 @@ _Please read each step carefully_
 
 9. [Maintenance](basics/maintenance.md)
 
-### Digging deeper
+### Digging deeper - *comming soon*
 
 Common error messages
 
-[Long server frames](deeper/long-server-frames.md)
+Long server frames
 
 Debugging proxy logs
 
