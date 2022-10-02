@@ -1,6 +1,9 @@
 # System and infrastructure requirements
 
-Each server instance requires 1 core at at least 1.7 ghz and between 500-800 mb of ram with a **STR** *(Single Thread Rating)* of 1250
+Each server instance requires 1 core at at least 1.7 ghz and between 500-800 mb of ram with a **STR** *(Single Thread Rating)* of 1250. However its **recommended **to do 1.5-2 cores for every game server.
+
+
+**Example: ** 8 game servers * 1.5 cores = 12 cpu cores*
 
 ### CPUs confirmed working with # instances
 
