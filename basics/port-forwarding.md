@@ -27,10 +27,11 @@ The new region auto-select feature is based on ping responses, however the maste
 
 1. Goto `Firewall -> Alias -> Ports`
 2. add
-3. Enter botrh ranges in format `xxxx:yyyy` and give it a name like `hon_ports`
-4. save
-5. `Firewall -> Nat -> Add`
-6. in _Destination port range_ "From port and To port" via "custom" to `hon_ports` 
-7. in _Redirect target IP_ enter your servers IP
-8. in _Redirect target port_ enter `hon_ports`
-9. SAVE
+3. Enter *Game* and *Voice* ranges in format `xxxx:yyyy` and new entries for stats *Stats resub* and *Ping*
+4. give it a name like `hon_ports`
+5. save
+6. go to `Firewall -> Nat -> Add`
+7. in _Destination port range_ "From port and To port" via "custom" to `hon_ports` 
+8. in _Redirect target IP_ enter your servers IP
+9. in _Redirect target port_ enter `hon_ports`
+10. SAVE
