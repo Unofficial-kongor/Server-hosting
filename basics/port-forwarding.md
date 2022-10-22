@@ -1,6 +1,6 @@
 # Port forwarding
 
-The server sends and receives packages ("game", "voice", "ping" and "stats resubmission"). So in order for people to be able to connect to your server, you must forward these ports on your computer and on your router.
+The server sends and receives packages ("game", "voice", "ping" and "stats resubmission"). So in order for the server to be accepted by PROJECT kongor, you must forward these ports on your computer and on your router.
 
 **With UseProxy set to `true` in COMPEL.json**
 
