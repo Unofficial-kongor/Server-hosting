@@ -1,19 +1,21 @@
 # Port forwarding
 
-The server sends and receives packages ("game", "voice" and "ping"). So in order for people to be able to connect to your server, you must forward these ports on your computer and on your router.
+The server sends and receives packages ("game", "voice", "ping" and "stats resubmission"). So in order for people to be able to connect to your server, you must forward these ports on your computer and on your router.
 
 **With UseProxy set to `true` in COMPEL.json**
 
 * *Game:* `21235-21335` _(UDP)_
 * *Voice:* `21435-21535` _(UDP)_
 * *Ping* `21234` _(TCP)_
+* *Stats resub* `1180` _(TCP)_
 
 **With UseProxy set to `false` in COMPEL.json** _(Not recomended)_
 
-* *Game:* `11235-11335`
-* *Voice:* `11435-11535`
-* *Ping* `11234` _(TCP)_
-* 
+* *Game:* `11235-11335` _(UDP)_
+* *Voice:* `11435-11535` _(UDP)_
+* *Ping* `11234` _(UDP)_
+* *Stats resub* `1180` _(TCP)_
+
 *PS: The port range may be set to the amount of server instances you wish to run*
 
 
