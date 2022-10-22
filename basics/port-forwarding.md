@@ -35,3 +35,12 @@ The new region auto-select feature is based on ping responses, however the maste
 8. in _Redirect target IP_ enter your servers IP
 9. in _Redirect target port_ enter `hon_ports`
 10. SAVE
+
+#### Asus Router
+
+1. Go to `WAN` under `Advanced Settings`
+2. Go to tab `Virtual Server / Port Forwarding`
+3. Activate `Enable Port Forwarding`
+4. Click `Add profile` and specify the required ports and internal server ip
+5. Result should look similar to this:
+   ![Port Forward List](../assets/ip-forward-asus-router.png)
