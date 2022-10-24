@@ -4,6 +4,18 @@ In order to ensure the best performance for game servers, enable "high performan
 
 1. Control panel -> Battery -> Power potions. Set plan to "High performance"
 
+This can also be done via the folowing powershell command:
+
+`powercfg /setactive 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c`
+
+you can verify this with
+
+`powercfg /list`
+
+![image](https://user-images.githubusercontent.com/110408668/197505339-ff555315-2de9-49d2-8004-332248ae6384.png)
+
+
+
 After the above step is done, now its time for the game server setup. Extract the downloaded "clean HON" to your preferred location. such as  `C:\Heroes of Newerth`
 
 1. Unpack _wasserver binaries_ like so
