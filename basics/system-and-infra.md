@@ -1,9 +1,15 @@
 # System and infrastructure requirements
+Your internet connection and CPU will make or break your HoN hosting career. 
 
+## Internet connection
+* 2-5 mbit/s _(up and down)_ per server instance
+* You should have at least a Grade A BufferBloat test. Test Bufferbloat here: [Waveform BufferBloat test](https://www.waveform.com/tools/bufferbloat)
+* You should have at most 100 ping against the region you wish to host. You can test ping against the entire world here: [World ping test](https://www.meter.net/tools/world-ping-test/)
+
+## CPU & RAM
 Each server instance requires 1 core at at least 1.7 ghz and between 500-800 mb of ram with a **STR** *(Single Thread Rating)* of 1250. However its **recommended** to do 1.5-2 cores for every server instance.
 
-
-**Example: ** 8 game servers * 1.5 cores = 12 cpu cores*
+**Example:** `8 game servers * 1.5 cores = 12 cpu cores`
 
 ### CPUs confirmed working with # instances
 
