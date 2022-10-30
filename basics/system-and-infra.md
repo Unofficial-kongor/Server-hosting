@@ -18,6 +18,8 @@ Each server instance requires 1 core at at least 1.7 ghz and between 500-800 mb 
 | Ryzen 5600x            | 3.7 GHz (4.6 GHz) | 6     | 12      | 12                    | 3355 |
 | intel Xeon E5-2650L V4 | 1.7 GHz (2.5 GHz) | 14    | 28      | 28                    | 1385 |
 | Ryzen 1700             | 3.0 Ghz (3.7 Ghz) | 8     | 16      | 8                     | 1999 |
+| intel i7-5930K         | 3.5 Ghz (3.7 Ghz) | 6     | 12      | 12                    | 2059 |
+
 
 ### Is your CPU not confirmed?
 
