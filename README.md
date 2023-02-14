@@ -22,7 +22,7 @@ There are two main launchers for running HoN Servers:
 	- A simple tool to launch ``x`` number of HoN servers.
 	> Uses K2 Server Manager
 1. **[HoNfigurator](https://github.com/frankthetank001/honfigurator)** - click the link to view the HoNfigurator setup page
-	- A GUI based server launcher with some additional featuers
+	- A GUI based server launcher with some additional features
 	> Replaces the K2 Server Manager, provides notifications/alerting, and a server panel
 
 ### Setting up COMPEL
