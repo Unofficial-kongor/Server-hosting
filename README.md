@@ -38,6 +38,15 @@ There are two main launchers for running HoN Servers:
 
 1. [Maintenance](basics/maintenance.md)
 
+### Monitoring
+It is highly recommended that servers are monitored post configuration.
+
+Monitoring provides server log analysis, to determine how laggy the server is.
+
+In the future, it will become mandatory to run this monitoring, as only quality servers will be allowed to host in Ranked TMM server pool.
+
+[Set up server monitoring](https://github.com/frankthetank001/HoNfigurator/blob/main/docs/elasticsearch-monitoring-setup.md)
+
 ### Digging deeper - *coming soon*
 
 Common error messages
