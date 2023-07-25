@@ -22,6 +22,7 @@ There are two main launchers for running HoN Servers:
 1. **[HoNfigurator](https://github.com/HoNfigurator/HoNfigurator-Central)** - click the link to view the HoNfigurator setup page
 	- Open source Server Manager & API with a remote management frontend website
 	- Servers stats & monitoring
+	- Linux & Windows compatible
 2. **COMPEL** - continue with this guide
 	- A simple tool to launch ``x`` number of HoN servers.
 	> Uses K2 Server Manager
