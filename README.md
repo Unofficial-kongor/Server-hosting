@@ -18,5 +18,3 @@ _Please read each step carefully_
 
 #### Choosing a Launcher
 1. **[HoNfigurator](https://github.com/frankthetank001/honfigurator)** - click the link to view the HoNfigurator setup page
-	- A GUI based server launcher with some additional features
-	> Replaces the K2 Server Manager, provides notifications/alerting, and a server panel
