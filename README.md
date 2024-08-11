@@ -17,4 +17,7 @@ _Please read each step carefully_
 1. [Hosting from a vm server / vps - requirements](basics/vm-vps-server.md)
 
 #### Choosing a Launcher
-1. **[HoNfigurator](https://github.com/frankthetank001/honfigurator)** - click the link to view the HoNfigurator setup page
+1. **[HoNfigurator](https://github.com/HoNfigurator/HoNfigurator-Central)** - click the link to view the HoNfigurator setup page
+	- Open source Server Manager & API with a remote management frontend website
+	- Servers stats & monitoring
+	- Linux & Windows compatible
