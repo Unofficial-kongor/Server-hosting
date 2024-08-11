@@ -27,4 +27,4 @@ If the CPU isnt confirmed. You can confirm it by
 
 1. Go to https://www.cpubenchmark.net/cpu.php and search for the CPU that is going to host the server
 2. Make sure the _"Single Thread Rating"_ is above 1250. 
-3. Report to tarrexd or kladze what your min max is
+3. Report to kladze what your min max is
