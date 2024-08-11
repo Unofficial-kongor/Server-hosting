@@ -17,35 +17,7 @@ _Please read each step carefully_
 1. [Hosting from a vm server / vps - requirements](basics/vm-vps-server.md)
 
 #### Choosing a Launcher
-There are two main launchers for running HoN Servers:
-
 1. **[HoNfigurator](https://github.com/HoNfigurator/HoNfigurator-Central)** - click the link to view the HoNfigurator setup page
 	- Open source Server Manager & API with a remote management frontend website
 	- Servers stats & monitoring
 	- Linux & Windows compatible
-2. **COMPEL** - continue with this guide
-	- A simple tool to launch ``x`` number of HoN servers.
-	> Uses K2 Server Manager
-
-### Setting up COMPEL
-1. [Downloads](basics/downloads.md)
-
-1. [Initial setup](basics/initial-setup.md)
-
-1. [Port forwarding](basics/port-forwarding.md)
-
-1. [Testing server](basics/testing.md)
-
-1. [Deploy to public](basics/deploy-to-public.md)
-
-1. [Maintenance](basics/maintenance.md)
-
-### Digging deeper - *coming soon*
-
-Common error messages
-
-Long server frames
-
-Debugging proxy logs
-
-Mastering K2
